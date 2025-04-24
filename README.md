@@ -1,7 +1,6 @@
 ### Hi i'm Patrick Alves! IT student from Brazil
 
-- 🔭 I’m currently working on HTML, CSS, JavaScript & Python projects
-- 🌱 I’m currently learning HTML, CSS, JAVA, JavaScript & Python
+- 🔭 I’m currently focused on .NET
 
 <div align="center">
   <a href="https://github.com/keterAlves">
